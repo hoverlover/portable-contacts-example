@@ -11,6 +11,8 @@ Tested on Ruby 1.8.* and Rails v2.3.8.
 Steps
 =====
 
-1. Start up `script/server`
-2. Navigate to [http://localhost:3000/contacts](http://localhost:3000/contacts)
-3. Boom goes the dynamite
+1. `bundle install`
+2. `rake db:migrate`
+3. `script/server`
+4. Navigate to [http://localhost:3000/contacts](http://localhost:3000/contacts)
+5. Boom goes the dynamite
