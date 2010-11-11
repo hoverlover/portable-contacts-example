@@ -12,5 +12,5 @@ Steps
 =====
 
 1. Start up `script/server`
-2. Navigate to http://localhost:3000/oauth_consumers/google
+2. Navigate to [http://localhost:3000/contacts](http://localhost:3000/contacts)
 3. Boom goes the dynamite
