@@ -1,0 +1,7 @@
+!!! Strict
+%html{ html_attrs('en') }
+  %head
+  %body
+    %p.notice= flash[:notice]
+    %p.alert= flash[:alert]
+    = yield
