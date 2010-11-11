@@ -1,12 +1,15 @@
-= Requirements
+Requirements
+============
 
 A Google account that contains contacts.
 
-= Environment
+Environment
+===========
 
 Tested on Ruby 1.8.* and Rails v2.3.8.
 
-= Steps
+Steps
+=====
 
 1. Start up `script/server`
 2. Navigate to http://localhost:3000/oauth_consumers/google
